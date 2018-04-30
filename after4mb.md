@@ -5,7 +5,7 @@ If you've taken [Math 4MB3](https://davidearn.github.io/math4mb/) and are wonder
 
 - you are presumably in your 3rd rather than 4th year
 
-- you have presumably already taken [Math 3F03](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=139768), the prerequisite course on the qualitative theory of ordinary differential equations, as well its prerequesites (calculus and linear algebra)
+- you have presumably already taken [Math 3F03](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=139768), the prerequisite course on the qualitative theory of ordinary differential equations, as well its prerequisites (calculus and linear algebra)
 
 All of the courses listed as options in the [Honours Biology and Mathematics programme](http://academiccalendars.romcmaster.ca/preview_program.php?catoid=24&poid=14172) are useful.  There are also some [graduate courses](https://www.math.mcmaster.ca/index.php/graduate-studies/graduate-courses.html) that you can obtain permission to take as an undergraduate.  How you prioritize the various courses depends to a large extent on your interests and what you're hoping to do after graduating.  However, one thing you should make sure you do before graduating is take at least one course in computer programming.
 
@@ -64,7 +64,7 @@ Models of biological systems are almost always expressed as some kind of [dynami
 
 ### BIOLOGY
 
-- population ecology
+- population ecology (BIO 3SS3)
 - evolution
 
 ## GRADUATE COURSES IN OR RELATED TO MATHEMATICAL BIOLOGY
@@ -104,7 +104,9 @@ Here are some examples of paths you might be interested in following, and what c
 - Ohio State University, MBI
 - Penn
 - Princeton
-- University Tennissee, Knoxville, NIMBIOS
+- University Tennessee, Knoxville, NIMBIOS
+- University of Michigan
+- University of Georgia
 
 ## Europe
 
