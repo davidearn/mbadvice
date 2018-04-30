@@ -39,6 +39,11 @@ Models of biological systems are almost always expressed as some kind of [dynami
 - difference equations (discrete time systems)
     - 3DC
 
+#### Stochastic dynamical systems
+
+- stochastic processes
+    - [Stat 3U](https://www.math.mcmaster.ca/index.php/news/63-/level-3/1563-stats-3u03-winter-2018.html)
+
 ### ANALYSIS
 
 - real analysis
@@ -80,3 +85,28 @@ Here are some examples of paths you might be interested in following, and what c
 
 ## I want to become a high school teacher
 
+# Graduate programs in mathematical epidemiology and ecology
+
+## Canada
+
+- University of Alberta
+- University of British Columbia
+- University of Manitoba
+- University of New Brunswick
+- University of Ottawa
+- University of Waterloo
+- York University
+
+## US
+
+- Cornell
+- Harvard School of Public Health
+- Ohio State University, MBI
+- Penn
+- Princeton
+- University Tennissee, Knoxville, NIMBIOS
+
+## Europe
+
+- Cambridge
+- Oxford
